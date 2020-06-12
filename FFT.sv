@@ -7,7 +7,7 @@ timeunit 1ns; timeprecision 10ps;
 
 
 
-logic mul_en, cal_en, display_Rez, display_Imz, display_Rey, display_Imy, nMUL1, nMUL2, nMUL3, nMUL4, OP,op,load_Rea, load_Ima, load_Reb, load_Imb, load_Rew, load_Imw;
+logic mul_en, cal_en, display_Rez, display_Imz, display_Rey, display_Imy, nMUL1, nMUL2, nMUL3, nMUL4, op,load_Rea, load_Ima, load_Reb, load_Imb, load_Rew, load_Imw;
 
 
 control c0(
